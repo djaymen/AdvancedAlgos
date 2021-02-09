@@ -1,4 +1,4 @@
-- **By** Benamara Abdelkader Chihab   &   Djelid Aymen
+- **By** Benamara Abdelkader Chihab   &&   Djelid Aymen
 # Advanced Algorithms
 
 **Advanced-Algos** is  our course assignement for the first semester at Paris Dauphine University. It is composed of 2 main algorithms in which all this 4 type of algorithms were achieved : `Greedy Algorithms `,`Dynamic Programming` , `Divide & Conquer`and `Branch & Bound`.
